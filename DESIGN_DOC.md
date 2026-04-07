@@ -1,3 +1,7 @@
+https://github.com/vinay6142/FlexQL.git
+GALIGUTTA VINAY REDDY
+25CS60R85
+
 # FlexQL Design Document
 
 ## 1. Overview
